@@ -1,0 +1,7 @@
+,target_horizontal_misalignment,target_imbalance,target_normal,target_overhang,target_underhang,target_vertical_misalignment
+target_horizontal_misalignment,1,5,3,47,0,4
+target_imbalance,3,57,7,18,0,15
+target_normal,1,1,2,10,0,1
+target_overhang,0,0,1,152,3,0
+target_underhang,1,1,1,151,15,0
+target_vertical_misalignment,15,42,15,10,1,8

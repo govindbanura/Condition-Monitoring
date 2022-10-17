@@ -1,0 +1,20 @@
+2022-07-22 14:16:42,117 DEBUG:Loading train_config successfully
+2022-07-22 14:16:42,117 DEBUG:Started Data Reading
+2022-07-22 14:16:42,120 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/horizontal-misalignment
+2022-07-22 14:16:43,652 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/imbalance
+2022-07-22 14:16:48,771 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/normal
+2022-07-22 14:16:49,312 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/overhang_ball_fault
+2022-07-22 14:16:50,927 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/overhang_cage_fault
+2022-07-22 14:16:52,995 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/overhang_outer_race
+2022-07-22 14:16:54,932 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/underhang_ball_fault
+2022-07-22 14:16:56,791 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/underhang_cage_fault
+2022-07-22 14:16:58,884 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/underhang_outer_race
+2022-07-22 14:17:00,867 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/vertical-misalignment
+2022-07-22 14:17:04,055 DEBUG:Data loading completed
+2022-07-22 14:17:04,058 DEBUG:Target Converted to One-Hot Encodings Successfully.
+2022-07-22 14:17:04,205 DEBUG:Data Divided to Features and Targets
+2022-07-22 14:17:06,979 DEBUG:Data balancing completed
+2022-07-22 14:17:09,930 DEBUG:Data Standardization completed
+2022-07-22 14:17:09,997 INFO:Standard Scaler Saved at: stand_scalers/stand_scaler_22_07_2022_14_16_42.pkl
+2022-07-22 14:17:10,043 DEBUG:Model Created
+2022-07-22 14:17:10,043 DEBUG:Model Training Started

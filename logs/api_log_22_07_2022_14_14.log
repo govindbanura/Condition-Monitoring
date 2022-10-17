@@ -1,0 +1,13 @@
+2022-07-22 14:14:24,014 INFO: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-07-22 14:15:00,086 INFO:Data file saved successful
+2022-07-22 14:15:00,086 DEBUG:Prediction Started
+2022-07-22 14:15:00,105 DEBUG:Last trained model loading - Started
+2022-07-22 14:15:00,108 DEBUG:Creating converter from 3 to 5
+2022-07-22 14:15:00,511 DEBUG:Model loading - Completed
+2022-07-22 14:15:00,512 DEBUG:Loading Standard Scaler
+2022-07-22 14:15:00,513 DEBUG:Standard Scalar Loaded Succesfully
+2022-07-22 14:15:00,514 DEBUG:Standardizing Test data
+2022-07-22 14:15:00,515 DEBUG:Standardizing Test data - Completed
+2022-07-22 14:15:01,129 INFO:Predicted Class: target_imbalance
+2022-07-22 14:15:01,130 INFO:Predicted Class: target_imbalance
+2022-07-22 14:15:01,131 INFO:127.0.0.1 - - [22/Jul/2022 14:15:01] "[35m[1mPOST /predict HTTP/1.1[0m" 201 -

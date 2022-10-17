@@ -1,0 +1,6 @@
+dataset_path : 'C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/'
+# [tachometer_signal, underhang_bearing_accelerometer_axial, underhang_bearing_accelerometer_radiale, underhang_bearing_accelerometer_tangential_direction, overhang_bearing_accelerometer_axial, overhang_bearing_accelerometer_radiale, overhang_bearing_accelerometer_tangential_direction, microphone]
+columns_name : ['0','1','2','3','4','5','6','7'] 
+data_balanced : False #if data is not balanced then False else True
+test : True # if testing required then True else False
+test_folder_path : 'C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/'

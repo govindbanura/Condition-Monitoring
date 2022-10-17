@@ -1,0 +1,37 @@
+Model Path: models/model_08_07_2022_06_25_15.h5
+
+Model Final Result:
+loss: 0.7604  |  val_loss: 0.9043
+precision: 0.7547  |  val_precision: 0.6779
+recall: 0.5603  |  val_recall: 0.5182
+
+==================================================================
+==================================================================
+
+Model Path: models/model_21_07_2022_12_55_08.h5
+
+Model Final Result:
+loss: 0.9301  |  val_loss: 1.4848
+precision: 0.7686  |  val_precision: 0.094
+recall: 0.4039  |  val_recall: 0.0236
+
+==================================================================
+==================================================================
+
+Model Path: models/model_21_07_2022_13_56_16.h5
+
+Model Final Result:
+loss: 1.3798  |  val_loss: 1.8665
+precision: 0.7621  |  val_precision: 0.1828
+recall: 0.0841  |  val_recall: 0.0364
+
+
+Model Path: models/model_22_07_2022_14_16_42.h5
+Model Final Result:
+
+
+Model Path: models/model_22_07_2022_14_19_02.h5
+Model Final Result:
+loss: 1.4249  |  val_loss: 1.7611
+precision: 0.6233  |  val_precision: 0.0518
+recall: 0.0745  |  val_recall: 0.0214

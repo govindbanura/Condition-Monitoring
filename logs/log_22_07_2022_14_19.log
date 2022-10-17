@@ -1,0 +1,44 @@
+2022-07-22 14:19:02,474 DEBUG:Loading train_config successfully
+2022-07-22 14:19:02,474 DEBUG:Started Data Reading
+2022-07-22 14:19:02,478 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/horizontal-misalignment
+2022-07-22 14:19:04,711 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/imbalance
+2022-07-22 14:19:08,639 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/normal
+2022-07-22 14:19:09,167 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/overhang_ball_fault
+2022-07-22 14:19:10,550 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/overhang_cage_fault
+2022-07-22 14:19:12,411 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/overhang_outer_race
+2022-07-22 14:19:14,580 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/underhang_ball_fault
+2022-07-22 14:19:16,639 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/underhang_cage_fault
+2022-07-22 14:19:18,515 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/underhang_outer_race
+2022-07-22 14:19:20,814 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/train/vertical-misalignment
+2022-07-22 14:19:25,323 DEBUG:Data loading completed
+2022-07-22 14:19:25,326 DEBUG:Target Converted to One-Hot Encodings Successfully.
+2022-07-22 14:19:25,511 DEBUG:Data Divided to Features and Targets
+2022-07-22 14:19:28,592 DEBUG:Data balancing completed
+2022-07-22 14:19:31,254 DEBUG:Data Standardization completed
+2022-07-22 14:19:31,318 INFO:Standard Scaler Saved at: stand_scalers/stand_scaler_22_07_2022_14_19_02.pkl
+2022-07-22 14:19:31,360 DEBUG:Model Created
+2022-07-22 14:19:31,360 DEBUG:Model Training Started
+2022-07-22 14:22:52,665 DEBUG:Creating converter from 5 to 3
+2022-07-22 14:22:52,819 DEBUG:Training Completed
+2022-07-22 14:22:52,819 INFO:Model Saved at: models/model_22_07_2022_14_19_02.h5
+2022-07-22 14:22:52,819 INFO:Model logs saved at: Model_version_log.txt
+2022-07-22 14:22:52,819 DEBUG:Testing Started
+2022-07-22 14:22:52,820 DEBUG:Started Data Reading
+2022-07-22 14:22:52,821 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/horizontal-misalignment
+2022-07-22 14:22:54,427 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/imbalance
+2022-07-22 14:22:57,256 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/normal
+2022-07-22 14:22:57,736 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/overhang_ball_fault
+2022-07-22 14:22:58,857 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/overhang_cage_fault
+2022-07-22 14:23:00,450 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/overhang_outer_race
+2022-07-22 14:23:02,155 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/underhang_ball_fault
+2022-07-22 14:23:03,610 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/underhang_cage_fault
+2022-07-22 14:23:05,097 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/underhang_outer_race
+2022-07-22 14:23:06,476 INFO:Reading Folder: C:/Users/Govind.Banura/Desktop/condition_monitoring/pipeline/fft_data_v2/val/vertical-misalignment
+2022-07-22 14:23:09,040 DEBUG:Data loading completed
+2022-07-22 14:23:09,081 DEBUG:Target Converted to One-Hot Encodings Successfully.
+2022-07-22 14:23:09,135 DEBUG:Data Divided to Features and Targets
+2022-07-22 14:23:09,135 DEBUG:Standardizing Test data
+2022-07-22 14:23:09,276 DEBUG:Standardizing Test data - Completed
+2022-07-22 14:23:17,381 INFO:Confusion Matrix saved at: confusion_matrix/conf_mat_22_07_2022_14_19_02.csv
+2022-07-22 14:23:17,381 DEBUG:Testing Completed
+2022-07-22 14:23:17,382 DEBUG:Testing Completed
