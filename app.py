@@ -57,6 +57,6 @@ def predict():
 
 if __name__ == '__main__':
     try:
-        app.run('0.0.0.0')
+        app.run()
     except Exception as e:
         logging.error('Api run failed due to '+e)
